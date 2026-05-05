@@ -43,8 +43,9 @@ coverage/
 *.tsbuildinfo
 
 # Mac system files
-*.DS_Store
+.DS_Store
 
 # VSCode extension folders
 .history/
 .idea/
+k=3/.DS_Store
